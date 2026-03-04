@@ -1,0 +1,12 @@
+date,description,amount,category,payment_method,merchant
+2024-02-15,Amazon Purchase - Electronics,159.98,Electronics,Credit Card,Amazon
+2024-02-16,Grocery Store Weekly Shopping,234.50,Groceries,Debit Card,SuperMart
+2024-02-17,Uber Ride to Office,24.30,Transportation,Digital Wallet,Uber
+2025-01-18,Netflix Monthly Subscription,15.99,Entertainment,Credit Card,Netflix
+2024-01-19,Office Supplies Purchase,89.75,Office,Debit Card,OfficeDepot
+2024-01-20,Restaurant Dinner with Client,850.60,Dining,Credit Card,LaRestaurant
+2024-01-21,Restaurant Dinner with Client,85.60,Dining,Credit Card,LaRestaurant
+2024-01-24,Restaurant Dinner with Client,85.60,Dining,Credit Card,LaRestaurant
+2024-01-25,Restaurant Dinner with Client,85.60,Dining,Credit Card,LaRestaurant
+2024-01-26,Restaurant Dinner with Client,85.60,Dining,Credit Card,LaRestaurant
+2024-01-21,Monthly Internet Bill,69.99,Utilities,Bank Transfer,Comcast

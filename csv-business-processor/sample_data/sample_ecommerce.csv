@@ -1,0 +1,8 @@
+order_id,order_date,product_name,quantity,unit_price,total_amount,customer_id,category
+1001,2024-01-15,Wireless Earbuds Pro,2,79.99,159.98,CUST001,Electronics
+1002,2024-01-16,Yoga Mat Premium,1,34.99,34.99,CUST002,Sports
+1003,2024-01-16,Organic Coffee 2lb,3,24.99,74.97,CUST003,Grocery
+1004,2024-01-17,LED Desk Lamp,1,45.50,45.50,CUST001,Home
+1005,2024-01-18,Phone Case iPhone,5,19.99,99.95,CUST004,Accessories
+1006,2024-01-19,Wireless Earbuds Pro,1,79.99,79.99,CUST005,Electronics
+1007,2024-01-20,Yoga Mat Premium,2,34.99,69.98,CUST002,Sports

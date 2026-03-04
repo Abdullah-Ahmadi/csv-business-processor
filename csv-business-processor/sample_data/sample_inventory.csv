@@ -1,0 +1,6 @@
+sku,product_name,category,current_stock,reorder_level,unit_cost,last_restock_date,days_of_supply
+B08XYZ1234,Wireless Earbuds Pro,Electronics,45,20,35.00,2024-01-10,30
+B09ABC5678,Yoga Mat Premium,Sports,12,15,18.00,2024-01-15,15
+B07DEF9012,Organic Coffee 2lb,Grocery,150,50,12.00,2024-01-05,90
+B10GHI3456,LED Desk Lamp,Home,0,100,22.00,2024-01-12,10
+B11JKL7890,Phone Case iPhone,Accessories,20000,100,8.00,2024-01-08,60
